@@ -1,0 +1,57 @@
+body {background-color: #666;}
+
+
+.container {width:1024px;
+			}
+
+/*helpers*/
+
+.red {background-color: red}
+.blue {background-color: blue;}
+.white {background-color: white;}
+.black {background-color: black;}
+.green {background-color: green;}
+.grey {background-color: grey;}
+
+.mt10 {margin-top: 10px;}
+.mb10 {margin-bottom: 10px;}
+
+.h200 {height:200px;}
+
+
+
+.logo a:visited, .logo a:hover, .logo a:active {text-decoration: none;}
+
+.btn-primary {background: red;}
+
+.col-xs-6 .active {background: red;
+		color:green;} 
+
+.nav {margin:10px 0px;}
+
+.active a {background: green;
+			color:red;
+		 border:solid;
+		 border-width: 5px;
+		 border-color:blue;}
+
+.nav li a {background: green;
+			color:red;
+		 border:solid;
+		 border-width: 5px;
+		 border-color:blue;}
+
+.nav-pills {border-radius: 20px;}
+
+.nav li a, {background:green;
+		   color:white;
+			border-radius: 15px;}
+
+.nav li a:hover {background: red;
+				 color: yellow;
+				 border-radius:0px;}
+
+.nav li a:active {background: white;
+				  color:black;
+				   border:solid;
+				   border-color:blue;}
